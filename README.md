@@ -26,8 +26,8 @@ tags:
 
 > 引用引用引用引用引用引用引用引用引用引用引用引用引用引用引用引用引用引用
 
-## `java` 代码块
-``` java
+## `javascript` 代码块
+``` javascript
 public class KeyboardFrameLayout extends FrameLayout {
 
 
