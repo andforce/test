@@ -77,3 +77,7 @@ drwxr-xr-x  8 andforce  staff   272  9 27 08:43 ..
 -rw-r--r--  1 andforce  staff  1053  9 27 08:43 _highlight.styl
 -rw-r--r--  1 andforce  staff  2226  9 27 08:43 _normalize.styl
 ```
+```schel
+openssl pkcs12 -export -in platform.x509.pem -inkey shared.priv.pem -out shared.pk12 -name androiddebugkey
+// 如果生成的`debug.keystore`要用在Eclipse中使用,请输入密码:`android`,否则请输入自己的签名即可.
+```
