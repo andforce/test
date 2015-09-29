@@ -68,7 +68,7 @@ public class KeyboardFrameLayout extends FrameLayout {
 ```
 
 ## `shell`代码块
-``` script
+``` shell
 WDYdeMacBook-Pro:vendor andforce$ ls -al
 total 24
 drwxr-xr-x  5 andforce  staff   170  9 27 10:56 .
